@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/luvallejo/proyectogaleria.git/static/css/main.9e3e85f4.chunk.css",
-    "main.js": "/luvallejo/proyectogaleria.git/static/js/main.fced21b7.chunk.js",
-    "main.js.map": "/luvallejo/proyectogaleria.git/static/js/main.fced21b7.chunk.js.map",
-    "runtime-main.js": "/luvallejo/proyectogaleria.git/static/js/runtime-main.afb3e23b.js",
-    "runtime-main.js.map": "/luvallejo/proyectogaleria.git/static/js/runtime-main.afb3e23b.js.map",
-    "static/js/2.ae734b23.chunk.js": "/luvallejo/proyectogaleria.git/static/js/2.ae734b23.chunk.js",
-    "static/js/2.ae734b23.chunk.js.map": "/luvallejo/proyectogaleria.git/static/js/2.ae734b23.chunk.js.map",
-    "index.html": "/luvallejo/proyectogaleria.git/index.html",
-    "static/css/main.9e3e85f4.chunk.css.map": "/luvallejo/proyectogaleria.git/static/css/main.9e3e85f4.chunk.css.map",
-    "static/js/2.ae734b23.chunk.js.LICENSE.txt": "/luvallejo/proyectogaleria.git/static/js/2.ae734b23.chunk.js.LICENSE.txt"
+    "main.css": "/proyectogaleria/static/css/main.9e3e85f4.chunk.css",
+    "main.js": "/proyectogaleria/static/js/main.fced21b7.chunk.js",
+    "main.js.map": "/proyectogaleria/static/js/main.fced21b7.chunk.js.map",
+    "runtime-main.js": "/proyectogaleria/static/js/runtime-main.effb4842.js",
+    "runtime-main.js.map": "/proyectogaleria/static/js/runtime-main.effb4842.js.map",
+    "static/js/2.ae734b23.chunk.js": "/proyectogaleria/static/js/2.ae734b23.chunk.js",
+    "static/js/2.ae734b23.chunk.js.map": "/proyectogaleria/static/js/2.ae734b23.chunk.js.map",
+    "index.html": "/proyectogaleria/index.html",
+    "static/css/main.9e3e85f4.chunk.css.map": "/proyectogaleria/static/css/main.9e3e85f4.chunk.css.map",
+    "static/js/2.ae734b23.chunk.js.LICENSE.txt": "/proyectogaleria/static/js/2.ae734b23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.afb3e23b.js",
+    "static/js/runtime-main.effb4842.js",
     "static/js/2.ae734b23.chunk.js",
     "static/css/main.9e3e85f4.chunk.css",
     "static/js/main.fced21b7.chunk.js"
